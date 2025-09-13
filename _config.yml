@@ -21,7 +21,7 @@ title                    : "Dahee Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Dahee (Diana) Kim"
-description              : "데이터와 AI를 탐구하는 중입니다. 만나서 반갑습니다!."
+description              : "데이터와 AI를 탐구하는 중입니다. 만나서 반갑습니다!"
 url                      : "https://dahee-diana96.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,11 +113,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dahee Kim (김다희)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul, Republic of Korea"
+  email            : "daheekim2713@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
