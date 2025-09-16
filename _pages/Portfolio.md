@@ -7,8 +7,6 @@ toc_sticky: true
 classes: wide
 ---
 
-![프로필 사진](/assets/images/dahee.jpg){: .align-left .rounded width="160" }
-
 ## 소개
 간단한 한 줄 소개를 적어주세요. 생성형 AI / 데이터 PM …
 
