@@ -39,7 +39,7 @@ classes: wide
 신경망 기계 번역이 가능함을 보여주었다. → 대규모 어휘 사전을 구축하거나 별도의 보조 사전(back-off dictionary)을 사용하는 기존 방식보다 더 단순하고 효과적
 - 데이터 압축 알고리즘인 '바이트 페어 인코딩(BPE)'을 단어를 의미 있는 조각으로 나누는 '어휘 분절' 작업에 적용했다. BPE를 사용하면 가변 길이의 문자 조합으로 이루어진 고정된 크기의 어휘 사전만으로도 사실상 무한한 단어를 표현할 수 있다.
 
-![alt text](image.png)
+![](/assets/images/image 1.png)
 
 - `def get_status(vocab)` : 현재의 vocab에서 문자쌍(character pair)의 빈도를 계산한다.
 - `def merge_vocab(pair, v_in)` : 해당 쌍을 찾아 병합한 문자열로 대체한다.
@@ -73,7 +73,7 @@ vocab = {
 
 # Experiment
 
-![alt text](image-1.png)
+![](/assets/images/image 2.png)
 
 **[지표]**
 - **BLEU**: 번역 품질 지표. 높을 수록 좋음.
@@ -85,16 +85,16 @@ vocab = {
 
 ⇒ BPE를 적용한 버전들이 보유한 단어 수가 적었음에도 불구하고 많은 지표들에 높은 점수를 기록했다.
 
-![alt text](image-2.png)
+![](/assets/images/image 3.png)
 
 ⇒ BPE가 보유하고 있는 단어의 종류(types)가 이전 방법들보다 대폭 줄였음에도 불구하고 unknown 발생 횟수가 상당히 줄어들었다.
 ⇒ 토큰 수가 좀 많은 게 함정.
 
 # Analysis
 
-![alt text](image-3.png)
+![](/assets/images/image 4.png)
 
-![alt text](image-4.png)
+![](/assets/images/image 5.png)
 
 - x축: 단어의 빈도 수 (왼쪽: 자주 등장하는 단어 / 오른쪽: 희귀하거나 OOV)
 - y축: unigram F1 점수 (= 단어 단위 정밀도와 재현율의 조화 평균)
