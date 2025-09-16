@@ -2,7 +2,10 @@
 title: "Portfolio"
 permalink: /portfolio/
 layout: single
+classes: wide
 ---
+
+![](/assets/images/dahee-1.jpg){: .align-center style="max-width:50%;"}
 
 I'm currently a job seeker in Data field. 
 Professionally, I have worked as an AI Researcher and a Product Manager specializing in AI-driven services, focusing on user research and iterative product development.
