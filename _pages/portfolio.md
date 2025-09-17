@@ -27,14 +27,14 @@ Throughout my work experience and education, I gained more interests in AI and D
 
 ### Service
 
-![](/assets/images/blinkheadshot.png){: .align-left style="width:50%; margin-right:1rem; margin-bottom:0.5rem;"}
+![](/assets/images/blinkheadshot.png){: .align-left style="width:200; margin-right:1rem; margin-bottom:0.5rem;"}
 - [**BlinkHeadshot.ai**](/assets/files/service_01.pdf) — a generative model–based service that applies image inpainting techniques
-
-- **프로젝트 B** — 한 줄 설명 · [코드](#)
+![](/assets/images/5초성형.png){: .align-left style="width:200; margin-right:1rem; margin-bottom:0.5rem;"}
+- [**5초성형**](/assets/files/service_02.pdf) — AI 가상 성형 서비스
 
 ### Data
 - [**Using Regression to Analyze the Relationship Between Weather and PM2.5 Levels**](/assets/files/Using%20Regression%20to%20Analyze%20the%20Relationship%20Between%20Weather%20and%20PM2.5%20Levels.pdf)
 - [**US Population Analysis - Assults per Population**](/assets/files/Fall%202017%20STAT%20350%20Project_%20Assaults%20per%20Population.pdf)
 
-## 기술 스택(Skills)
+## Skills
 - Python, SQL, Figma, Google Ads, Notion, Slack, Mixpanel
